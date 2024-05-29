@@ -1,4 +1,4 @@
-from time import clock
+from time import time as clock
 from acktr.model_loader import nnModel
 from acktr.reorder import ReorderTree
 import gym
